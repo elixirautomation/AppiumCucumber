@@ -1,2 +1,2 @@
-# AppiumCucumber
-Appium Framework Development Using Cucumber
+# Appium Hybrid Framework
+Appium Framework Development
